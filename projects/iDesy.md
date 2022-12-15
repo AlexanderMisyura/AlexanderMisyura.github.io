@@ -12,15 +12,14 @@ labels:
 summary: "Website for landing and presentation of an interior design company."
 ---
 
+**Link to project:**
+<a href="https://idesy.onrender.com">idesy.onrender.com</a>
+
 <img class="img-fluid" src="../img/iDesy/iDesy5.gif">
 
 <hr>
 
-Website for landing and presentation of an interior design company. Fully responsive. There is a gallery of projects with the ability to filter by category. The feedback form allows the owner to receive messages from users by email, made using a third-party service. Built-in google maps.
-
-<hr>
-
-The project is not labor intensive, although it allows solving certain business problems. Clients can view ready-made design projects and contact the manager if they wish to get advice, discuss details and place an order.
+Website for landing and presentation of an interior design company. Fully responsive. There is a gallery of projects with the ability to filter by category, feedback form and about-page.
 
 <hr>
 
