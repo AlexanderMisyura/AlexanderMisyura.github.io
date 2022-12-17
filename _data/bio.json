@@ -7,11 +7,29 @@
     "phone": "+37529-645-39-21",
     "website": "https://alexandermisyura.github.io",
     "summary": "Reliable and detail-oriented developer who takes on new challenges with determination. Passionate about bringing ideas to life and learning new concepts. Looking to bring my tech skills to your company.",
-    "location": { "address": "Garuna 12-103", "postalCode": "220055", "city": "Minsk", "countryCode": "BLR", "region": "Minsk" },
+    "location": {
+      "address": "Garuna 12-103",
+      "postalCode": "220055",
+      "city": "Minsk",
+      "countryCode": "BLR",
+      "region": "Minsk"
+    },
     "profiles": [
-      { "network": "github", "username": "AlexanderMisyura", "url": "http://github.com/AlexanderMisyura" },
-      { "network": "linkedin", "username": "alexander-misyura", "url": "https://www.linkedin.com/in/alexander-misyura" },
-      { "network": "twitter", "username": "alexander_misyura", "url": "https://twitter.com/alexandermisyu1" }
+      {
+        "network": "github",
+        "username": "AlexanderMisyura",
+        "url": "http://github.com/AlexanderMisyura"
+      },
+      {
+        "network": "linkedin",
+        "username": "alexander-misyura",
+        "url": "https://www.linkedin.com/in/alexander-misyura"
+      },
+      {
+        "network": "twitter",
+        "username": "alexander_misyura",
+        "url": "https://twitter.com/alexandermisyu1"
+      }
     ]
   },
   "interests": [
@@ -22,7 +40,16 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS", "Javascript", "Node.js", "React", "MongoDB", "Git", "Github" ]
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "React",
+        "MongoDB",
+        "Git",
+        "Github"
+      ]
     },
     {
       "name": "English level",
@@ -30,12 +57,19 @@
     },
     {
       "name": "Soft skills",
-      "keywords": [ "Adaptability", "Flexibility", "Self-direction", "Responsibility", "Conflict resolution", "Teamwork" ]
+      "keywords": [
+        "Adaptability",
+        "Flexibility",
+        "Self-direction",
+        "Responsibility",
+        "Conflict resolution",
+        "Teamwork"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "Belarusian National Technical University",
+      "institution": "Belarusian National Technical University ",
       "area": "Technical Operation of Automobiles",
       "startDate": "2009",
       "endDate": "2011"
@@ -49,10 +83,10 @@
   ],
   "work": [
     {
-      "company": "Bezdezh-Agro APC",
-      "position": "Engineer",
-      "startDate": "2009",
-      "endDate": "2011"
+      "company": "Ernis LLC",
+      "position": "Sales assistant",
+      "startDate": "2014",
+      "endDate": "2020"
     },
     {
       "company": "Demetra LLC",
@@ -61,10 +95,10 @@
       "endDate": "2013"
     },
     {
-      "company": "Ernis LLC",
-      "position": "Sales assistant",
-      "startDate": "2014",
-      "endDate": "2020"
+      "company": "Bezdezh-Agro APC",
+      "position": "Engineer",
+      "startDate": "2009",
+      "endDate": "2011"
     }
   ]
 }
