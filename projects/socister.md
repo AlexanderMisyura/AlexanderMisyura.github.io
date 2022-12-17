@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/socister/socister-square.jpg
+image: img/socister/socister-square2.jpg
 title: "Socister"
-date: 2022-09-25
+date: 2022-11-17
 published: true
 labels:
   - HTML
@@ -13,7 +13,7 @@ labels:
   - Express
   - Handlebars
   - MongoDB
-summary: "Website for landing and presentation of an interior design company."
+summary: "Social media website."
 ---
 
 <hr>
@@ -23,11 +23,11 @@ summary: "Website for landing and presentation of an interior design company."
 ### Features:
  - user login/registration
  - user profile dashboard
- - managable categories:
-   - posts (can be public, private, visible by friends only. Users may add new, edit or delete existing own posts.)
-   - comments (when deleting marks comment as *Comment was deleted* if it has non-deleted replies, otherwise is entirely removed )
-   - bookmarks (save/delete posts in a separate list)
-   - friends (send/cancel your friend request, accept/reject someone else's request, remove user from friends list)
+ - manageable categories:
+   - posts (can be public, private, visible only to friends. Users can add new, edit or delete existing own posts.)
+   - comments (when deleting a comment, it is marked as *Comment was deleted* if it has non-deleted replies, otherwise it is completely deleted )
+   - bookmarks (save/delete posts to a separate list)
+   - friends (send/cancel own friend request, accept/reject someone else's request, remove a user from friends list)
  - post and comment likes (increase user rating)
 
 **Link to project:**
@@ -35,7 +35,7 @@ summary: "Website for landing and presentation of an interior design company."
 
 <hr>
 
-<img class="img-fluid" src="../img/socister/socister2.gif">
+<img class="img-fluid" src="../img/socister/socister3.gif">
 
 <hr>
 

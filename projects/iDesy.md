@@ -6,6 +6,8 @@ title: "iDesy"
 date: 2022-09-25
 published: true
 labels:
+  - HTML
+  - CSS
   - Node.js
   - Express
   - Handlebars
