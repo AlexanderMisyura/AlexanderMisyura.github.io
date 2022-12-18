@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Alexander Misyura",
+    "label": "Web developer",
+    "picture": "https://github.com/alexandermisyura.png",
+    "email": "alexander.misyura.dev@gmail.com",
+    "phone": "+37529-645-39-21",
+    "website": "https://alexandermisyura.github.io",
+    "summary": "Reliable and detail-oriented developer who takes on new challenges with determination. Passionate about bringing ideas to life and learning new concepts. Looking to bring my tech skills to your company.",
+    "location": {
+      "address": "Garuna 12-103",
+      "postalCode": "220055",
+      "city": "Minsk",
+      "countryCode": "BLR",
+      "region": "Minsk"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "AlexanderMisyura",
+        "url": "http://github.com/AlexanderMisyura"
+      },
+      {
+        "network": "linkedin",
+        "username": "alexander-misyura",
+        "url": "https://www.linkedin.com/in/alexander-misyura"
+      },
+      {
+        "network": "twitter",
+        "username": "alexander_misyura",
+        "url": "https://twitter.com/alexandermisyu1"
+      }
+    ]
+  },
+  "interests": [
+    { "name": "Web developement" },
+    { "name": "Learning new technologies" },
+    { "name": "D&D" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "React",
+        "MongoDB",
+        "Git",
+        "Github"
+      ]
+    },
+    {
+      "name": "English level",
+      "keywords": "Upper intermediate"
+    },
+    {
+      "name": "Soft skills",
+      "keywords": [
+        "Adaptability",
+        "Flexibility",
+        "Self-direction",
+        "Responsibility",
+        "Conflict resolution",
+        "Teamwork"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Belarusian National Technical University ",
+      "area": "Technical Operation of Automobiles",
+      "startDate": "2009",
+      "endDate": "2011"
+    },
+    {
+      "institution": "Pinsk State Agrarian and Technical College",
+      "area": "Repair and maintenance production",
+      "startDate": "2006",
+      "endDate": "2009"
+    }
+  ],
+  "work": [
+    {
+      "company": "Ernis LLC",
+      "position": "Sales assistant",
+      "startDate": "2014",
+      "endDate": "2020"
+    },
+    {
+      "company": "Demetra LLC",
+      "position": "Warehouse manager",
+      "startDate": "2011",
+      "endDate": "2013"
+    },
+    {
+      "company": "Bezdezh-Agro APC",
+      "position": "Engineer",
+      "startDate": "2009",
+      "endDate": "2011"
+    }
+  ]
+}
