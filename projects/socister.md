@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/socister/socister-square2.jpg
-title: "Socister"
+title: 'Socister'
 date: 2022-11-17
 published: true
 labels:
@@ -13,7 +13,7 @@ labels:
   - Express
   - Handlebars
   - MongoDB
-summary: "Social media website."
+summary: 'Social media website.'
 ---
 
 <hr>
@@ -21,14 +21,15 @@ summary: "Social media website."
 ### A full stack social media website.
 
 ### Features:
- - user login/registration
- - user profile dashboard
- - manageable categories:
-   - posts (can be public, private, visible only to friends. Users can add new, edit or delete existing own posts.)
-   - comments (when deleting a comment, it is marked as *Comment was deleted* if it has non-deleted replies, otherwise it is completely deleted )
-   - bookmarks (save/delete posts to a separate list)
-   - friends (send/cancel own friend request, accept/reject someone else's request, remove a user from friends list)
- - post and comment likes (increase user rating)
+
+- user login/registration
+- user profile dashboard
+- manageable categories:
+  - posts (public, private, visible to friends). Add, edit, delete posts.
+  - comments
+  - bookmarks (save/delete posts to a separate list)
+  - friends (send/cancel, accept/reject friend request, remove from friends list)
+- post and comment likes
 
 **Link to project:**
 <a href="https://socister.onrender.com">socister.onrender.com</a>
