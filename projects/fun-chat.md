@@ -1,0 +1,42 @@
+---
+layout: project
+type: project
+image: img/fun-chat/fun-chat-square.png
+title: 'Chat App'
+date: 2025-04-21
+published: true
+labels:
+  - TypeScript
+  - Webpack
+  - SCSS
+  - WebSocket
+  - Husky
+  - Eslint, Stylelint, Prettier
+summary: 'A single page chat application written in vanilla typescript using websocket.'
+---
+
+<hr>
+
+### An online LEGO set marketplace.
+
+### Features:
+
+- user login
+- sending/receiving messages
+- contact list with online/offline status
+- editing/deleting sent messages
+
+**Link to project:**
+<a href="https://alexandermisyura-fun-chat.netlify.app/">the-team-ecommerce.netlify.app</a>
+
+<hr>
+
+<video controls src="../img/fun-chat/fun-chat.mp4"></video>
+
+<hr>
+
+A single page chat application written in vanilla typescript, no frameworks. Websocket is used for real-time communication. The app allows users to send and receive messages, view contacts, edit or delete sent messages. Requires a running server - <a href="https://github.com/rolling-scopes-school/fun-chat-server"><i class="large github icon "></i>fun-chat-server</a>.
+
+<hr>
+
+Source: <a href="https://github.com/AlexanderMisyura/fun-chat"><i class="large github icon "></i>AlexanderMisyura/fun-chat</a>
