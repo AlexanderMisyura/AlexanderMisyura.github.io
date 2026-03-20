@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/fun-chat/fun-chat-square.png
-title: 'Chat App'
+title: 'Fun Chat'
 date: 2025-04-21
 published: true
 labels:
@@ -17,7 +17,7 @@ summary: 'A single page chat application written in vanilla typescript using web
 
 <hr>
 
-### An online LEGO set marketplace.
+### A chat app.
 
 ### Features:
 
