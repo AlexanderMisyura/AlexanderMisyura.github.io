@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lego-eCommerce/lego-eCommerce-square.png
+image: img/lego-eCommerce/lego-eCommerce-square2.png
 title: 'LEGO eCommerce'
 date: 2025-06-20
 published: true
