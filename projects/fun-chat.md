@@ -12,7 +12,7 @@ labels:
   - WebSocket
   - Husky
   - Eslint, Stylelint, Prettier
-summary: 'A single page chat application written in vanilla typescript using websocket.'
+summary: 'A single page chat application.'
 ---
 
 <hr>
@@ -27,7 +27,7 @@ summary: 'A single page chat application written in vanilla typescript using web
 - editing/deleting sent messages
 
 **Link to project:**
-<a href="https://alexandermisyura-fun-chat.netlify.app/">the-team-ecommerce.netlify.app</a>
+<a href="https://alexandermisyura-fun-chat.netlify.app/">alexandermisyura-fun-chat.netlify.app</a>
 
 <hr>
 
@@ -35,7 +35,7 @@ summary: 'A single page chat application written in vanilla typescript using web
 
 <hr>
 
-A single page chat application written in vanilla typescript, no frameworks. Websocket is used for real-time communication. The app allows users to send and receive messages, view contacts, edit or delete sent messages. Requires a running server - <a href="https://github.com/rolling-scopes-school/fun-chat-server"><i class="large github icon "></i>fun-chat-server</a>.
+A single page chat application written in vanilla typescript, no frameworks. Websocket is used for real-time communication. The app allows users to send and receive messages, view contacts, edit or delete sent messages.
 
 <hr>
 
