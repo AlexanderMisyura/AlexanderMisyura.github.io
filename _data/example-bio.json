@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Alexander Misyura",
-    "label": "Frontend developer",
+    "label": "Web developer",
     "picture": "https://github.com/alexandermisyura.png",
     "email": "alexander.misyura.dev@gmail.com",
     "phone": "+37529-645-39-21",
     "website": "https://alexandermisyura.github.io",
     "summary": "Reliable and detail-oriented developer who takes on new challenges with determination. Passionate about bringing ideas to life and learning new concepts. Looking to bring my tech skills to your company.",
     "location": {
-      "address": "Minsk, Belarus",
+      "address": "Garuna 12-103",
       "postalCode": "220055",
       "city": "Minsk",
       "countryCode": "BLR",
@@ -26,30 +26,26 @@
         "url": "https://www.linkedin.com/in/alexander-misyura"
       },
       {
-        "network": "telegram",
+        "network": "twitter",
         "username": "alexander_misyura",
-        "url": "https://t.me/alexander_misyura"
+        "url": "https://twitter.com/alexandermisyu1"
       }
     ]
   },
   "interests": [
-    { "name": "New technologies" },
-    { "name": "Tabletop rpgs" }
+    { "name": "Web developement" },
+    { "name": "Learning new technologies" },
+    { "name": "D&D" }
   ],
   "skills": [
     {
-      "name": "Technologies",
+      "name": "Languages and Frameworks",
       "keywords": [
         "HTML",
-        "CSS/SCSS",
+        "CSS",
         "Javascript",
-        "TypeScript",
         "Node.js",
         "React",
-        "Next.js",
-        "React Router",
-        "Redux",
-        "Express",
         "MongoDB",
         "Git",
         "Github"
@@ -66,39 +62,24 @@
         "Flexibility",
         "Self-direction",
         "Responsibility",
-        "Attention to detail",
+        "Conflict resolution",
         "Teamwork"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Rolling Scopes School",
-      "area": "React",
-      "startDate": "2025",
-      "endDate": "2025"
-    },
-    {
-      "institution": "Rolling Scopes School",
-      "area": "JavaScript/Front-end",
-      "startDate": "2024",
-      "endDate": "2025"
-    },
-    {
-      "institution": "Belarusian National Technical University (incomplete)",
+      "institution": "Belarusian National Technical University ",
       "area": "Technical Operation of Automobiles",
       "startDate": "2009",
       "endDate": "2011"
     },
     {
-      "institution": "State Agrarian and Technical College",
+      "institution": "Pinsk State Agrarian and Technical College",
       "area": "Repair and maintenance production",
       "startDate": "2006",
       "endDate": "2009"
     }
-  ],
-  "projects": [
-    {}
   ],
   "work": [
     {

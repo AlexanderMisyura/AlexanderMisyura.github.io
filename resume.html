@@ -31,23 +31,8 @@ layout: home
       </div>
       <div class="col">
         <p class="mb-1 text-end">{{ site.data.bio.basics.location.address }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p>
-      </div>
-    </div>
-
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Interests</h1>
-      </div>
-      <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.interests %}
-          {{ entry.name }}
-          <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
-          {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %},{% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
-          {% endfor %}
-        </p>
+        <!-- <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
+        <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p> -->
       </div>
     </div>
 
@@ -122,14 +107,14 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="m-0"><b>{{ entry.institution }}</b></p>
-              <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
-              {% if entry.courses %}
+              <!-- <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p> -->
+              <!-- {% if entry.courses %}
                 <ul>
                   {% for course in entry.courses %}
                     <li>{{ course }}</li>
                   {% endfor %}
                 </ul>
-              {% endif %}
+              {% endif %} -->
             </div>
           <div class="col-3">
             <p class="m-0 text-end">
@@ -241,5 +226,20 @@ layout: home
       </div>
     </div>
     {% endif %}
+
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Interests</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+          {% for entry in site.data.bio.interests %}
+          {{ entry.name }}
+          <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
+          {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %},{% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </p>
+      </div>
+    </div>
   </div>
 </div>
