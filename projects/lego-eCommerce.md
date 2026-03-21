@@ -36,7 +36,7 @@ summary: 'E-commerce website for LEGO products.'
 
 <hr>
 
-<video controls width="1024px" src="../img/lego-eCommerce/lego-eCommerce.mp4"></video>
+<video class="img-fluid" controls width="1024px" src="../img/lego-eCommerce/lego-eCommerce.mp4"></video>
 
 <hr>
 

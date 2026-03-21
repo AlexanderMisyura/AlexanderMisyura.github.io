@@ -31,7 +31,7 @@ summary: 'A single page chat application.'
 
 <hr>
 
-<video controls src="../img/fun-chat/fun-chat.mp4"></video>
+<video class="img-fluid" controls src="../img/fun-chat/fun-chat.mp4"></video>
 
 <hr>
 
