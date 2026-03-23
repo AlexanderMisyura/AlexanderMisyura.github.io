@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/iDesy/iDesy-square.jpg
 title: "iDesy"
-date: 2022-09-25
+date: 2022
 published: true
 labels:
   - HTML

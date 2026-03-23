@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/lego-eCommerce/lego-eCommerce-square2.png
 title: 'LEGO eCommerce'
-date: 2025-06-20
+date: 2025
 published: true
 labels:
   - TypeScript

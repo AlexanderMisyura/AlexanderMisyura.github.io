@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/fun-chat/fun-chat-square.png
 title: 'Fun Chat'
-date: 2025-04-21
+date: 2025
 published: true
 labels:
   - TypeScript

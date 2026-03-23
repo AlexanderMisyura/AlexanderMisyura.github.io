@@ -15,7 +15,7 @@ summary: 'Picture logic puzzle game.'
 
 <hr>
 
-### Nonograms puzzle game.
+### An interactive puzzle game.
 
 ### Features:
 
