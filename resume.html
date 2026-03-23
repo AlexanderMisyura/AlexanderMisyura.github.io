@@ -107,6 +107,10 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="m-0"><b>{{ entry.institution }}</b></p>
+              <p class="m-0">{{ entry.area }}</p>
+              {% if entry.certificate %}
+                <a href="{{ entry.certificate }}" target="_blank">Certificate</a>
+              {% endif %}
               <!-- <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p> -->
               <!-- {% if entry.courses %}
                 <ul>

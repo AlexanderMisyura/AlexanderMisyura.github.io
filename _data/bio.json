@@ -76,13 +76,14 @@
       "institution": "Rolling Scopes School",
       "area": "React",
       "startDate": "2025",
-      "endDate": "2025"
+      "certificate": "https://app.rs.school/certificate/k8hcby7k"
     },
     {
       "institution": "Rolling Scopes School",
       "area": "JavaScript/Front-end",
       "startDate": "2024",
-      "endDate": "2025"
+      "endDate": "2025",
+      "certificate": "https://app.rs.school/certificate/34751m2n"
     },
     {
       "institution": "Belarusian National Technical University (incomplete)",
