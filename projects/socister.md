@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/socister/socister-square2.jpg
 title: 'Socister'
-date: 2022
+date: 2022-11
+# date: 2022-11-17
 published: true
 labels:
   - HTML

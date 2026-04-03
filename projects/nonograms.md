@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/nonograms/nonograms-square.png
 title: 'Nonograms'
-date: 2025
+date: 2025-02
+# date: 2025-02-04
 published: true
 labels:
   - JavaScript, JSDoc type annotations
