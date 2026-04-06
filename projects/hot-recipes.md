@@ -41,7 +41,7 @@ summary: 'Recipes website.'
 
 <hr>
 
-Next.js application that uses the dummyjson API for recipes data. Redux toolkit is used for fetching and (synced with localstorage) storing checked recipes. Next-intl - for i18n. SSR for recipes details page.
+Next.js application that uses the dummyjson API for recipes data. RTK-Query is used for fetching and (synced with localstorage) storing checked recipes. Next-intl - for i18n. SSR for recipes details page.
 
 <hr>
 
