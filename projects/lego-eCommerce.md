@@ -12,6 +12,7 @@ labels:
   - Vite
   - React Router
   - Commercetools
+  - Zod
   - MUI
   - Tailwind
   - Husky
@@ -41,7 +42,7 @@ summary: 'E-commerce website for LEGO products.'
 
 <hr>
 
-An online LEGO set marketplace that uses the Commerce Tools API to mirror the conventional shopping cycle. It offers the full shopping experience, from registration and browsing to adding products to a shopping cart.
+A collaborative team project. An online LEGO set marketplace that uses the Commerce Tools API to mirror the conventional shopping cycle. It offers the full shopping experience, from registration and browsing to adding products to a shopping cart. Written in TypeScript, React, React Router (Data Mode).
 
 <hr>
 
