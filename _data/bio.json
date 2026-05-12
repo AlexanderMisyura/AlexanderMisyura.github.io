@@ -57,7 +57,7 @@
     },
     {
       "name": "English level",
-      "keywords": "Upper intermediate"
+      "keywords": "Advanced (C1)"
     },
     {
       "name": "Soft skills",
@@ -120,5 +120,6 @@
       "startDate": "2009",
       "endDate": "2011"
     }
-  ]
+  ],
+  "resume_link": "https://github.com/AlexanderMisyura/AlexanderMisyura.github.io/blob/main/resume/Alexander_Misyura_CV.pdf"
 }
