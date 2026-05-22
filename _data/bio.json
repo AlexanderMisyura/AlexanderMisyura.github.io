@@ -38,33 +38,81 @@
   ],
   "skills": [
     {
-      "name": "Technologies",
+      "name": "English level",
       "keywords": [
-        "HTML",
-        "CSS/SCSS",
+        "C1 (Advanced)"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
         "Javascript",
         "TypeScript",
-        "Node.js",
+        "HTML",
+        "CSS/SCSS"
+      ]
+    },
+    {
+      "name": "Frameworks and libraries",
+      "keywords": [
         "React",
         "Next.js",
         "React Router",
         "Redux",
-        "Express",
-        "MongoDB",
+        "i18next",
+        "React Hook Form",
+        "Zod",
+        "Express"
+      ]
+    },
+    {
+      "name": "UI libraries",
+      "keywords": [
+        "Tailwind",
+        "MUI",
+        "Bulma"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Vite",
+        "Webpack",
         "Git",
         "Github"
       ]
     },
     {
-      "name": "English level",
-      "keywords": "Advanced (C1)"
+      "name": "Code quality",
+      "keywords": [
+        "Husky",
+        "ESLint",
+        "Stylelint",
+        "Prettier"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Jest",
+        "Vitest",
+        "React Testing Library",
+        "MSW"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL"
+      ]
     },
     {
       "name": "Soft skills",
       "keywords": [
-        "Adaptability",
-        "Flexibility",
-        "Self-direction",
+        "Reliability",
         "Responsibility",
         "Attention to detail",
         "Teamwork"
@@ -103,22 +151,33 @@
   ],
   "work": [
     {
-      "company": "Ernis LLC",
-      "position": "Sales assistant",
-      "startDate": "2014",
-      "endDate": "2020"
+      "company": "Hard Forward",
+      "position": "Front-end / Full-stack developer",
+      "startDate": "2026",
+      "endDate": "2026",
+      "highlights": [
+        "Real estate task management system. Improved the task status system. Implemented email notifications for various events. Optimized file uploads. Implemented an attachment gallery: file information, media files preview, downloads. Various improvements to the logic and UI.",
+        "Website and blog platform for promoting and showcasing the company’s services. Implemented a feature to convert website articles from WordPress to PDF and download the archive. Changes to the website’s styling.",
+        "Healthcare management platform. Support and bug fixes."
+      ]
     },
     {
-      "company": "Demetra LLC",
-      "position": "Warehouse manager",
-      "startDate": "2011",
-      "endDate": "2013"
+      "company": "TDA",
+      "position": "Front-end developer",
+      "startDate": "2025",
+      "endDate": "2025",
+      "highlights": [
+        "REST API client (Postman alternative). An application for testing requests. Designed and implemented application structure. Proxying client requests, collecting analytics, variables functionality."
+      ]
     },
     {
-      "company": "Bezdezh-Agro APC",
-      "position": "Engineer",
-      "startDate": "2009",
-      "endDate": "2011"
+      "company": "The Team",
+      "position": "Front-end developer, Team Lead",
+      "startDate": "2025",
+      "endDate": "2025",
+      "highlights": [
+        "E-commerce platform. An online LEGO set marketplace: full shopping experience, from registration and browsing to adding products to a shopping cart. Implemented product catalog, cart, discounts, user registration. Managed data using Commercetools Merchant Center."
+      ]
     }
   ],
   "resume_link": "https://raw.githubusercontent.com/AlexanderMisyura/AlexanderMisyura.github.io/main/resume/Alexander_Misyura_CV.pdf"

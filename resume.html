@@ -9,6 +9,7 @@ layout: home
     <div class="row">
       <div class="col">
         <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
+        <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
         <h2 class="text-center">
           <a class="btn btn-outline-dark" href="{{ site.data.bio.resume_link }}" download>Download Resume</a>
         </h2>
@@ -33,7 +34,7 @@ layout: home
         {% endfor %}
       </div>
       <div class="col">
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.address }}</p>
+        <p class="mb-1 text-end">Location: {{ site.data.bio.basics.location.address }}</p>
         <!-- <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
         <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p> -->
       </div>
@@ -60,7 +61,7 @@ layout: home
     {% if site.data.bio.work %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Work</h1>
+        <h1 class="display-6 text-start m-0">Work and Project Experience</h1>
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.work %}
