@@ -15,6 +15,7 @@ labels:
   - Handlebars
   - MongoDB
 summary: 'Social media website.'
+projecturl: "https://socister.onrender.com"
 ---
 
 <hr>

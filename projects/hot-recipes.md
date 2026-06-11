@@ -17,7 +17,8 @@ labels:
   - Vitest, React Testing Library, MSW
   - Husky
   - Eslint, Stylelint, Prettier
-summary: 'Recipes website.'
+summary: 'Recipes application.'
+projecturl: "https://hot-recipes.vercel.app/"
 ---
 
 <hr>

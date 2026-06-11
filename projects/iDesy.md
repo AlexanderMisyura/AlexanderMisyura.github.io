@@ -13,6 +13,7 @@ labels:
   - Express
   - Handlebars
 summary: "Website for landing and presentation of an interior design company."
+projecturl: "https://idesy.onrender.com"
 ---
 
 **Link to project:**

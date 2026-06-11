@@ -18,6 +18,7 @@ labels:
   - Husky
   - Eslint, Stylelint, Prettier
 summary: 'E-commerce website for LEGO products.'
+projecturl: "https://the-team-ecommerce.netlify.app/"
 ---
 
 <hr>

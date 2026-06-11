@@ -14,6 +14,7 @@ labels:
   - Husky
   - Eslint, Stylelint, Prettier
 summary: 'A single page chat application.'
+projecturl: "https://alexandermisyura-fun-chat.netlify.app/"
 ---
 
 <hr>

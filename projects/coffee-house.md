@@ -12,6 +12,7 @@ labels:
   - JavaScript
   - BEM methodology
 summary: 'A website with interactive elements.'
+projecturl: "https://alexandermisyura.github.io/coffee-house/"
 ---
 
 <hr>

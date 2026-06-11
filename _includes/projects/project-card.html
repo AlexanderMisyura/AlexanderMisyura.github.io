@@ -7,6 +7,9 @@
       <div class="card-body">
         <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
         <p class="card-text">{{ include.page.summary }}</p>
+        {% if page.projecturl %}
+        <a href="{{ page.projecturl }}" target="_blank">Project Site</a>
+        {% endif %}
         <p>
           {% for label in include.page.labels %}
           <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>

@@ -13,6 +13,7 @@ labels:
   - BEM methodology
   - Eslint, Stylelint, Prettier
 summary: 'A fully responsive single page application with client-side routing, interactive elements, smooth motions and animations.'
+projecturl: "https://alexandermisyura-christmas-shop.netlify.app/"
 ---
 
 <hr>

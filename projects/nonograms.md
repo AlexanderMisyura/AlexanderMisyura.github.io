@@ -12,6 +12,7 @@ labels:
   - SCSS
   - Eslint, Stylelint, Prettier
 summary: 'Picture logic puzzle game.'
+projecturl: "https://alexandermisyura.github.io/nonograms-v2/"
 ---
 
 <hr>
