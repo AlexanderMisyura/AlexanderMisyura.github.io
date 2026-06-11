@@ -13,7 +13,7 @@ labels:
   - WebSocket
   - Husky
   - Eslint, Stylelint, Prettier
-summary: 'A single page chat application.'
+summary: 'Vanilla typescript single page chat application.'
 projecturl: "https://alexandermisyura-fun-chat.netlify.app/"
 ---
 

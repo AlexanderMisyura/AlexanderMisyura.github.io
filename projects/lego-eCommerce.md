@@ -17,7 +17,7 @@ labels:
   - Tailwind
   - Husky
   - Eslint, Stylelint, Prettier
-summary: 'E-commerce website for LEGO products.'
+summary: 'E-commerce React application for LEGO products.'
 projecturl: "https://the-team-ecommerce.netlify.app/"
 ---
 
