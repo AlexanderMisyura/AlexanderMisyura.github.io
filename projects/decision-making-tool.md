@@ -19,7 +19,7 @@ projecturl: "https://alexandermisyura-fun-chat.netlify.app/"
 
 <hr>
 
-### A decision making tool.
+### An app to help make a random pick.
 
 ### Features:
 
