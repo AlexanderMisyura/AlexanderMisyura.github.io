@@ -14,12 +14,12 @@ labels:
   - Husky
   - Eslint, Stylelint, Prettier
 summary: 'Vanilla typescript app to help make a random pick.'
-projecturl: "https://alexandermisyura-fun-chat.netlify.app/"
+projecturl: "https://alexandermisyura-decision-making-tool.netlify.app/"
 ---
 
 <hr>
 
-### A decision making tool.
+### An app to help make a random pick.
 
 ### Features:
 
