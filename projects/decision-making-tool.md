@@ -13,13 +13,13 @@ labels:
   - Canvas API
   - Husky
   - Eslint, Stylelint, Prettier
-summary: 'Vanilla typescript single page chat application.'
+summary: 'Vanilla typescript app to help make a random pick.'
 projecturl: "https://alexandermisyura-fun-chat.netlify.app/"
 ---
 
 <hr>
 
-### A chat app.
+### A decision making tool.
 
 ### Features:
 
