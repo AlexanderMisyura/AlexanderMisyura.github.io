@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Alexander Misyura",
+    "label": "Frontend developer",
+    "picture": "https://github.com/alexandermisyura.png",
+    "email": "alexander.misyura.dev@gmail.com",
+    "phone": "+37529-645-39-21",
+    "website": "https://alexandermisyura.github.io",
+    "summary": "Reliable and detail-oriented developer who takes on new challenges with determination. Passionate about bringing ideas to life and learning new concepts. Looking to bring my tech skills to your company.",
+    "location": {
+      "address": "Minsk, Belarus",
+      "postalCode": "220055",
+      "city": "Minsk",
+      "countryCode": "BLR",
+      "region": "Minsk"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "AlexanderMisyura",
+        "url": "http://github.com/AlexanderMisyura"
+      },
+      {
+        "network": "linkedin",
+        "username": "alexander-misyura",
+        "url": "https://www.linkedin.com/in/alexander-misyura"
+      },
+      {
+        "network": "telegram",
+        "username": "alexander_misyura",
+        "url": "https://t.me/alexander_misyura"
+      }
+    ]
+  },
+  "interests": [
+    { "name": "New technologies" },
+    { "name": "Tabletop rpgs" }
+  ],
+  "skills": [
+    {
+      "name": "English level",
+      "keywords": [
+        "C1 (Advanced)"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Javascript",
+        "TypeScript",
+        "HTML",
+        "CSS/SCSS"
+      ]
+    },
+    {
+      "name": "Frameworks and libraries",
+      "keywords": [
+        "React",
+        "Next.js",
+        "React Router",
+        "Redux",
+        "i18next",
+        "React Hook Form",
+        "Zod",
+        "Express"
+      ]
+    },
+    {
+      "name": "UI libraries",
+      "keywords": [
+        "Tailwind",
+        "MUI",
+        "Bulma"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Vite",
+        "Webpack",
+        "Git",
+        "Github"
+      ]
+    },
+    {
+      "name": "Code quality",
+      "keywords": [
+        "Husky",
+        "ESLint",
+        "Stylelint",
+        "Prettier"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Jest",
+        "Vitest",
+        "React Testing Library",
+        "MSW"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "keywords": [
+        "Reliability",
+        "Responsibility",
+        "Attention to detail",
+        "Teamwork"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rolling Scopes School",
+      "area": "React",
+      "startDate": "2025",
+      "certificate": "https://app.rs.school/certificate/k8hcby7k"
+    },
+    {
+      "institution": "Rolling Scopes School",
+      "area": "JavaScript/Front-end",
+      "startDate": "2024",
+      "endDate": "2025",
+      "certificate": "https://app.rs.school/certificate/34751m2n"
+    },
+    {
+      "institution": "Belarusian National Technical University (incomplete)",
+      "area": "Technical Operation of Automobiles",
+      "startDate": "2009",
+      "endDate": "2011"
+    },
+    {
+      "institution": "State Agrarian and Technical College",
+      "area": "Repair and maintenance production",
+      "startDate": "2006",
+      "endDate": "2009"
+    }
+  ],
+  "projects": [
+    {}
+  ],
+  "work": [
+    {
+      "company": "Hard Forward",
+      "position": "Front-end / Full-stack developer",
+      "startDate": "2026",
+      "endDate": "2026",
+      "highlights": [
+        "Real estate task management system. Improved the task status system. Implemented email notifications for various events. Optimized file uploads. Implemented an attachment gallery: file information, media files preview, downloads. Various improvements to the logic and UI.",
+        "Website and blog platform for promoting and showcasing the company’s services. Implemented a feature to convert website articles from WordPress to PDF and download the archive. Changes to the website’s styling.",
+        "Healthcare management platform. Support and bug fixes."
+      ]
+    },
+    {
+      "company": "TDA",
+      "position": "Front-end developer",
+      "startDate": "2025",
+      "endDate": "2025",
+      "highlights": [
+        "REST API client (Postman alternative). An application for testing requests. Designed and implemented application structure. Proxying client requests, collecting analytics, variables functionality."
+      ]
+    },
+    {
+      "company": "The Team",
+      "position": "Front-end developer, Team Lead",
+      "startDate": "2025",
+      "endDate": "2025",
+      "highlights": [
+        "E-commerce platform. An online LEGO set marketplace: full shopping experience, from registration and browsing to adding products to a shopping cart. Implemented product catalog, cart, discounts, user registration. Managed data using Commercetools Merchant Center."
+      ]
+    }
+  ],
+  "resume_link": "https://raw.githubusercontent.com/AlexanderMisyura/AlexanderMisyura.github.io/main/resume/Alexander_Misyura_CV.pdf"
+}
